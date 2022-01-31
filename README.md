@@ -22,8 +22,9 @@ ADD A CONFIG FILE config.js WITH AN API_KEY
 API_KEY=SAMPLE_KEY12293903
 ```
 
-## Screenshots
+<!-- ## Screenshots -->
 
-### To Do App
+<!-- ### To Do App
 
-![To do list](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![To do list](https://github.com/Shalini-2209/assignments-rn/blob/main/screenshots/instagram.png?raw=true)
+ -->
