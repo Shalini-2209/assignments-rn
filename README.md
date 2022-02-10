@@ -1,6 +1,6 @@
 # React Native Basic Projects
 
-## Tech
+## Environment setup
 
 - Expo-cli - https://docs.expo.dev/
 - Node js - https://nodejs.org/en/ 
